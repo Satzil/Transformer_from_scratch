@@ -10,8 +10,8 @@
 <h2 id="motivation">Motivation</h2>
 <p>Transformers have revolutionized NLP tasks by overcoming the limitations of traditional recurrent and convolutional neural networks. Their ability to capture long-range dependencies and parallelize computation has led to state-of-the-art performance in various tasks such as language translation, text generation, and sentiment analysis. However, understanding and implementing Transformers can be challenging due to their complex architecture. This project aims to demystify Transformers by providing a clear, step-by-step implementation from scratch.</p>
 <h2 id="architecture">Architecture</h2>
-<p><img src="https://miro.medium.com/v2/resize:fit:1090/0*ljYs7oOlKC71SzSr.png" alt="enter image description here"></p>
-<p>The architecture of the “Implement Transformers from Scratch” project involves several key components that work together to build and train a Transformer model for natural language processing tasks. Here’s an overview of the project architecture:</p>
+<p><img src="https://github.com/Satzil/Transformer_from_scratch/blob/master/transformer.png?raw=true" alt="enter image description here"><br>
+The architecture of the “Implement Transformers from Scratch” project involves several key components that work together to build and train a Transformer model for natural language processing tasks. Here’s an overview of the project architecture:</p>
 <h3 id="transformer-model">1. Transformer Model</h3>
 <p>The core of the architecture is the Transformer model itself, consisting of an encoder and a decoder. Each of these components contains multiple layers of attention mechanisms and feedforward neural networks.</p>
 <ul>
